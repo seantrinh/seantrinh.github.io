@@ -1,0 +1,15 @@
+@font-face {
+	font-family: gidole;
+	src: url(./gidole/Gidole-Regular.otf);
+}
+h1 {
+	font-family: gidole;
+	color: #052849;
+}
+h2 {
+	font-family: gidole;
+	color: #29547C;
+}
+body {
+	background-color: #BEDBF6
+}
